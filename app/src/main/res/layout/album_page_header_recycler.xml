@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.miui.gallery.widget.recyclerview.GalleryRecyclerView xmlns:android="http://schemas.android.com/apk/res/android" android:id="@+id/album_page_header_recycler" android:background="@color/album_page_header_background" android:paddingBottom="@dimen/message_bar_vertical_margin" android:layout_width="match_parent" android:layout_height="wrap_content" android:paddingStart="@dimen/message_bar_horizontal_margin" android:paddingEnd="@dimen/message_bar_horizontal_margin"/>

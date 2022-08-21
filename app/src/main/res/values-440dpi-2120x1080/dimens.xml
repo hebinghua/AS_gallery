@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="editor_menu_filter_compare_btn_margin_top_3V4">17.81dp</dimen>
+    <dimen name="editor_menu_filter_compare_btn_margin_top_9V16">10.18dp</dimen>
+    <dimen name="editor_menu_filter_compare_btn_margin_top_has_nav_bar_3V4">5.45dp</dimen>
+    <dimen name="editor_menu_filter_compare_btn_margin_top_has_nav_bar_9V16">5.45dp</dimen>
+    <dimen name="vlog_ratio_view_has_nav_line_begin">7dp</dimen>
+    <dimen name="vlog_ratio_view_line_begin">0dp</dimen>
+    <dimen name="vlog_video_origin_ratio_gap">131px</dimen>
+    <dimen name="vlog_video_origin_ratio_gap_has_bar">219px</dimen>
+    <dimen name="vlog_video_view_9V16_has_nav_margin_start">60dp</dimen>
+    <dimen name="vlog_video_view_9V16_margin_start">48dp</dimen>
+</resources>

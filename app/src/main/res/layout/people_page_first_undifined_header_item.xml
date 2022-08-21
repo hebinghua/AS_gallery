@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android" android:layout_width="match_parent" android:layout_height="wrap_content">
+    <View android:background="@color/people_undefine_group_header_color" android:layout_width="match_parent" android:layout_height="0dp" android:layout_marginTop="0dp" android:layout_marginBottom="0dp" android:layout_marginStart="@dimen/people_page_list_padding_left_right" android:layout_marginEnd="@dimen/people_page_list_padding_left_right"/>
+</FrameLayout>

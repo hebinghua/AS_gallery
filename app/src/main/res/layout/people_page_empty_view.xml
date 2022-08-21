@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.miui.gallery.widget.EmptyPage xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" android:id="@android:id/empty" android:visibility="gone" android:layout_width="match_parent" android:layout_height="match_parent" app:emptyIcon="@drawable/ic_pic_empty_person" app:emptyTitle="@string/people_album_empty_title"/>

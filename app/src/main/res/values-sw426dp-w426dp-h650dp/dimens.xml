@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="baby_album_page_header_first_height">65.09dp</dimen>
+    <dimen name="miplay_btn_margin_start_end">44.44dp</dimen>
+    <dimen name="miplay_btn_margin_start_end_land">44.44dp</dimen>
+</resources>

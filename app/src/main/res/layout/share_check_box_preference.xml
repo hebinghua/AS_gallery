@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" android:background="?attr/preferenceItemBackground" android:clipChildren="false" android:layout_width="match_parent" android:layout_height="wrap_content">
+    <RelativeLayout android:background="@drawable/custom_page_bar_background" android:paddingTop="@dimen/album_share_tv_padding_tb" android:paddingBottom="@dimen/album_share_tv_padding_tb" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginTop="@dimen/album_share_tv_margin_top" android:paddingStart="@dimen/album_share_tv_padding_se" android:paddingEnd="@dimen/album_share_tv_padding_se">
+        <LinearLayout android:orientation="vertical" android:id="@+id/title_container" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_centerVertical="true">
+            <TextView android:textSize="@dimen/album_share_tv_title_size" android:textColor="@color/share_album_tv_title" android:ellipsize="marquee" android:id="@android:id/title" android:fadingEdge="horizontal" android:layout_width="wrap_content" android:layout_height="wrap_content" android:singleLine="true"/>
+            <TextView android:textSize="@dimen/album_share_tv_summary_size" android:textColor="@color/share_album_tv_summary" android:ellipsize="marquee" android:id="@android:id/summary" android:fadingEdge="horizontal" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="@dimen/album_share_tv_summary_margin_top" android:layout_marginEnd="@dimen/album_share_tv_summary_margin_right"/>
+        </LinearLayout>
+        <LinearLayout android:orientation="horizontal" android:id="@android:id/widget_frame" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_centerVertical="true" android:layout_alignParentEnd="true"/>
+    </RelativeLayout>
+</LinearLayout>

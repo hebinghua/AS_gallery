@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="magic_id_photo_guide_text_margin_left">@dimen/px_120</dimen>
+    <dimen name="magic_id_photo_guide_text_margin_top">@dimen/px_140</dimen>
+    <dimen name="magic_idp_bottom_height">@dimen/px_1723</dimen>
+    <dimen name="magic_idp_bottom_margin_top">191.64dp</dimen>
+    <dimen name="magic_idp_guide_photo_height">170.91dp</dimen>
+    <dimen name="magic_idp_guide_photo_width">235.64dp</dimen>
+    <dimen name="magic_idp_guide_text_margin_2">@dimen/px_100</dimen>
+    <dimen name="magic_idp_guide_text_margin_3">@dimen/px_80</dimen>
+    <dimen name="magic_search_edit_width">@dimen/px_750</dimen>
+    <dimen name="magic_search_list_width">@dimen/px_880</dimen>
+    <dimen name="magic_status_bar_height">29.82dp</dimen>
+</resources>

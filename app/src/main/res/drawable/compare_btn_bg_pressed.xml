@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android" android:paddingStart="@dimen/editor_menu_compare_btn_padding_start" android:paddingEnd="@dimen/editor_menu_compare_btn_padding_start">
+    <item>
+        <shape android:shape="rectangle">
+            <stroke android:width="1px" android:color="@color/photo_editor_compare_btn_stroke_color"/>
+            <solid android:color="@color/photo_editor_compare_btn_solid_color_p"/>
+            <corners android:radius="@dimen/editor_menu_compare_btn_corner"/>
+        </shape>
+    </item>
+</layer-list>

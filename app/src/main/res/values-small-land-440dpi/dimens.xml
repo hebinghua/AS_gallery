@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="update_dialog_checkbox_top_margin">9.09dp</dimen>
+    <dimen name="update_dialog_log_max_height">44.55dp</dimen>
+    <dimen name="update_dialog_log_top_margin">11.27dp</dimen>
+</resources>

@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape xmlns:android="http://schemas.android.com/apk/res/android" android:shape="rectangle">
+    <corners android:radius="@dimen/album_hidden_item_btn_bg_corners_value"/>
+    <stroke android:width="@dimen/album_hidden_item_btn_bg_stroke_value" android:color="@color/album_hidden_item_button_stroke"/>
+</shape>

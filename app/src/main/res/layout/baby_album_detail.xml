@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" android:layout_width="match_parent" android:layout_height="match_parent">
+    <com.miui.gallery.widget.GalleryPullZoomLayout android:id="@+id/scrolling_layout" android:layout_width="match_parent" android:layout_height="match_parent" app:gpzl_contentView="@+id/content" app:gpzl_headerView="@+id/face_header_item" app:gpzl_zoomableView="@+id/header_background">
+        <include android:id="@+id/face_header_item" layout="@layout/baby_album_detail_page_face_header_item"/>
+        <FrameLayout android:gravity="center" android:layout_gravity="center" android:orientation="vertical" android:id="@+id/content" android:layout_width="match_parent" android:layout_height="match_parent">
+            <miuix.springback.view.SpringBackLayout android:layout_width="match_parent" android:layout_height="match_parent" android:layout_marginBottom="@dimen/safe_distance_bottom" android:layout_marginStart="@dimen/home_page_margin_horizontal" android:layout_marginEnd="@dimen/home_page_margin_horizontal" app:scrollableView="@+id/grid" app:springBackMode="0x2">
+                <com.miui.gallery.widget.recyclerview.GalleryRecyclerView android:id="@+id/grid" android:layout_width="match_parent" android:layout_height="match_parent" android:importantForAccessibility="no" style="@style/Gallery.Widget.GridView.ThumbNail"/>
+            </miuix.springback.view.SpringBackLayout>
+            <com.miui.gallery.widget.EmptyPage android:id="@android:id/empty" android:visibility="gone" android:layout_width="match_parent" android:layout_height="match_parent" app:emptyIcon="@drawable/ic_pic_empty_albums" app:emptyTitle="@string/album_detail_page_empty" app:showActionButton="false"/>
+        </FrameLayout>
+    </com.miui.gallery.widget.GalleryPullZoomLayout>
+    <LinearLayout android:gravity="center" android:id="@+id/goto_pick_header_background_mask" android:background="@color/black_40_transparent_with_dark_mode" android:visibility="gone" android:layout_width="match_parent" android:layout_height="match_parent">
+        <TextView android:textAppearance="@style/Gallery.TextAppearance.List.Primary" android:gravity="center" android:layout_gravity="center" android:id="@+id/goto_pick_background" android:background="@color/white_50_transparent" android:layout_width="200dp" android:layout_height="40dp" android:text="@string/baby_album_change_background"/>
+    </LinearLayout>
+</FrameLayout>

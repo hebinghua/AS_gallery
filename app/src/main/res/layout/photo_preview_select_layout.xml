@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.miui.gallery.widget.slip.VerticalSlipLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:VerticalSlipLayout="http://schemas.android.com/apk/res-auto" android:id="@+id/slip_layout" android:layout_width="match_parent" android:layout_height="match_parent" VerticalSlipLayout:fixedSideSlipDis="@dimen/preview_pager_margin_top" VerticalSlipLayout:slipMode="2" VerticalSlipLayout:slippedBackground="@color/transparent" VerticalSlipLayout:slippedWhenEnter="true">
+    <FrameLayout android:layout_gravity="bottom" android:id="@+id/child_container" android:paddingTop="@dimen/preview_chooser_margin_top" android:layout_width="match_parent" android:layout_height="@dimen/preview_chooser_height"/>
+    <miuix.springback.view.SpringBackLayout android:id="@+id/photo_pager_container" android:layout_width="match_parent" android:layout_height="match_parent" VerticalSlipLayout:scrollOrientation="0x1" VerticalSlipLayout:scrollableView="@+id/photo_pager">
+        <com.miui.gallery.widget.ViewPager android:id="@+id/photo_pager" android:layout_width="match_parent" android:layout_height="match_parent"/>
+    </miuix.springback.view.SpringBackLayout>
+</com.miui.gallery.widget.slip.VerticalSlipLayout>

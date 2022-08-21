@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android" android:layout_width="@dimen/vlog_main_menu_navi_item_width" android:layout_height="match_parent">
+    <TextView android:textSize="@dimen/vlog_menu_nav_item_text_size" android:textColor="@drawable/vlog_selector_menu_nav_item" android:ellipsize="marquee" android:gravity="center" android:id="@+id/title" android:layout_width="match_parent" android:layout_height="match_parent" android:singleLine="true" android:fontFamily="mipro-medium"/>
+</FrameLayout>

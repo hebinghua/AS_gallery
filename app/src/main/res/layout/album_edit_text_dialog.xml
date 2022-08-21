@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android" android:layout_width="match_parent" android:layout_height="wrap_content" android:paddingStart="@dimen/miuix_appcompat_dialog_button_pannel_horizontal_margin" android:paddingEnd="@dimen/miuix_appcompat_dialog_button_pannel_horizontal_margin">
+    <com.miui.gallery.ui.EditTextPreIme android:id="@+id/edit_text" android:layout_width="match_parent" android:layout_height="wrap_content" android:maxLines="1" android:imeOptions="actionDone" style="@style/Widget.EditText.Dialog">
+        <requestFocus/>
+    </com.miui.gallery.ui.EditTextPreIme>
+</FrameLayout>

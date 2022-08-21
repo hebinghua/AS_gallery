@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape xmlns:android="http://schemas.android.com/apk/res/android" android:shape="rectangle">
+    <solid android:color="@color/trash_header_button_color"/>
+    <corners android:radius="@dimen/trash_header_button_radius"/>
+    <size android:height="@dimen/trash_header_button_height"/>
+</shape>

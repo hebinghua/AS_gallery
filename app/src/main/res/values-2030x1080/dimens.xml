@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="beautyedit_beauty_compare_margin_right">72px</dimen>
+    <dimen name="beautyedit_beauty_compare_margin_top">221px</dimen>
+    <dimen name="dual_camera_enter_margin_bottom">139.636dp</dimen>
+    <dimen name="photo_editor_preview_padding">42px</dimen>
+    <dimen name="photo_editor_preview_padding_bottom">0px</dimen>
+    <dimen name="photo_editor_preview_padding_top">90px</dimen>
+    <dimen name="photo_editor_remove_watermark_margin_end_3V4">12.73dp</dimen>
+    <dimen name="photo_editor_remove_watermark_margin_end_9V16">22.67dp</dimen>
+    <dimen name="photo_editor_remove_watermark_margin_top_3V4">15.64dp</dimen>
+    <dimen name="photo_editor_remove_watermark_margin_top_9V16">31.333dp</dimen>
+    <dimen name="storage_frame_height">1309px</dimen>
+    <dimen name="storage_hint_margin_top">114px</dimen>
+    <dimen name="video_editor_effect_box_margin_bottom">8px</dimen>
+    <dimen name="video_editor_nav__start">9dp</dimen>
+    <dimen name="video_editor_preview_padding">42px</dimen>
+    <dimen name="video_editor_preview_padding_bottom">0px</dimen>
+    <dimen name="video_editor_preview_padding_top">90px</dimen>
+    <dimen name="video_editor_water_mark_in_distance">150dp</dimen>
+</resources>

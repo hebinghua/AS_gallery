@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="collage_stitching_layout_max_width">334.5391dp</dimen>
+    <dimen name="editor_menu_filter_category_gap">7.27dp</dimen>
+    <dimen name="editor_menu_filter_item_gap">7.27dp</dimen>
+    <dimen name="editor_menu_filter_top_guide_line_end">147.64dp</dimen>
+    <dimen name="editor_menu_item_min_width">@dimen/px_184</dimen>
+    <dimen name="editor_menu_sticker_tab_width">61.82dp</dimen>
+    <dimen name="editor_menu_sticker_top_guide_end">228.44dp</dimen>
+    <dimen name="editor_menu_sticker_view_pager_item_width">65.45dp</dimen>
+    <dimen name="photo_editor_frame_color_select_layout_margin_end">17.78dp</dimen>
+    <dimen name="photo_editor_frame_seek_bar_margin_end">0dp</dimen>
+    <dimen name="screen_editor_base_guideline_end">316.8828dp</dimen>
+    <dimen name="screen_editor_base_guideline_end_with_nearby_share">390.2344dp</dimen>
+    <dimen name="screen_editor_share_mode_bottom_guideline_end">316.8828dp</dimen>
+    <dimen name="screen_editor_share_mode_bottom_guideline_end_with_nearby_share">390.2344dp</dimen>
+    <dimen name="screen_editor_share_mode_title_height">64.89dp</dimen>
+    <dimen name="screen_editor_share_mode_top_guideline_begin">64.89dp</dimen>
+    <dimen name="text_edit_dialog_options_style_item_height">@dimen/px_210</dimen>
+    <dimen name="text_edit_dialog_options_style_item_width">@dimen/px_210</dimen>
+    <dimen name="text_edit_dialog_options_style_panel_rl_seek_bar_margin_right">15.11dp</dimen>
+    <dimen name="text_edit_dialog_tab_font_item_img_width">@dimen/px_210</dimen>
+    <dimen name="text_edit_dialog_tab_font_margin">226.22dp</dimen>
+    <dimen name="text_edit_dialog_tab_font_recycler_item_spaces">14.55dp</dimen>
+    <dimen name="text_edit_dialog_tab_style_recycler_view_margin_left">72.36dp</dimen>
+    <dimen name="text_edit_dialog_tab_style_transparent_title_margin_right">9.82dp</dimen>
+    <dimen name="text_edit_style_adapter_item_column_spaces">16.36dp</dimen>
+    <dimen name="text_edit_style_adapter_item_spaces">14.55dp</dimen>
+</resources>

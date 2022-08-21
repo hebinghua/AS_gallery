@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android" android:id="@+id/navRoot" android:layout_width="match_parent" android:layout_height="match_parent" android:paddingStart="@dimen/vlog_menu_common_operation_btn_hot_area_padding_start">
+    <include android:gravity="center" android:visibility="visible" android:layout_width="@dimen/vlog_menu_common_operation_btn_hot_area_width" android:layout_height="@dimen/vlog_menu_common_operation_height" layout="@layout/vlog_play_layout"/>
+</FrameLayout>

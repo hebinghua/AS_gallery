@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="photo_page_top_menu_bar_action_back_margin_start">26.94dp</dimen>
+    <dimen name="photo_page_top_menu_bar_location_container_max_width">49.24dp</dimen>
+    <dimen name="photo_page_top_menu_bar_location_max_width">39.48dp</dimen>
+    <dimen name="photo_page_top_menu_bar_menu_margin_end">0dp</dimen>
+    <dimen name="specify_type_video_enter_landscape_margin_top">100.27dp</dimen>
+    <dimen name="specify_type_video_enter_margin_bottom">132dp</dimen>
+    <dimen name="update_dialog_log_max_height">89.09dp</dimen>
+</resources>

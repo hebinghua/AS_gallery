@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animated-vector xmlns:android="http://schemas.android.com/apk/res/android" xmlns:aapt="http://schemas.android.com/aapt" android:drawable="@drawable/res_0x7f0800cc_lock_orientation_unlock_to_locked_port__0">
+    <target android:name="_R_G_L_1_G_D_0_P_0" android:animation="@drawable/res_0x7f0800cd_lock_orientation_unlock_to_locked_port__1"/>
+    <target android:name="_R_G_L_1_G_T_1" android:animation="@drawable/res_0x7f0800d1_lock_orientation_unlock_to_locked_port__5"/>
+    <target android:name="time_group" android:animation="@drawable/res_0x7f0800d5_lock_orientation_unlock_to_locked_port__9"/>
+</animated-vector>

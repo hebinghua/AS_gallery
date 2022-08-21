@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="confirm_merge_face_albums"> &lt;Data&gt; جەزملەشتۈرگىنىڭىز&lt;font color=#e6ffffff&gt;&lt;b&gt;%s&lt;/b&gt;&lt;/font&gt; ئەمەسمۇ؟ &lt;/Data&gt; </string>
+    <string name="confirm_merge_many_face_albums"> &lt;Data&gt; جەزملەشتۈرگىنىڭىز &lt;font color=#e6ffffff&gt;&lt;b&gt;%s&lt;/b&gt;&lt;/font&gt; ئەمەسمۇ؟ &lt;/Data&gt; </string>
+    <string name="confirm_recommandation_face_is">&lt;Data&gt; بۇنىڭ&lt;font color=#e6ffffff&gt;&lt;b&gt;%1$s&lt;/b&gt;&lt;/font&gt; ئىكەنلىكىنى جەزملەمسىز؟جەزملىسىڭىز بۇ كىشى “%2$s” ئالبومغا يۆتكىلىدۇ &lt;/Data&gt; </string>
+    <string name="confirm_recommandation_face_not">&lt;Data&gt; جەزملەشتۈرگىنىڭىز &lt;font color=#e6ffffff&gt;&lt;b&gt;%1$s&lt;/b&gt;&lt;/font&gt; ئەمەسمۇ؟ &lt;/Data&gt; </string>
+    <string name="confirm_recommandation_multiple_faces_are">&lt;Data&gt; بۇنىڭ&lt;font color=#e6ffffff&gt;&lt;b&gt;%1$s&lt;/b&gt;&lt;/font&gt; ئىكەنلىكىنى جەزملەمسىز؟جەزملىسىڭىز بۇ كىشى “%2$s” ئالبومغا يۆتكىلىدۇ &lt;/Data&gt; </string>
+    <string name="confirm_recommandation_multiple_faces_not"> &lt;Data&gt; جەزملەشتۈرگىنىڭىز &lt;font color=#e6ffffff&gt;&lt;b&gt;%1$s&lt;/b&gt;&lt;/font&gt;بۇ ئەمەسمۇ؟ &lt;/Data&gt; </string>
+    <string name="ignore_alert_title">&lt;Data&gt; بۇ چىراينى ئۆتكۈزىۋېتەمسىز؟&lt;font color=#e6ffffff&gt;&lt;b&gt; ئۆتكۈزىۋەتكەن چىراينى سول ئۈستى تەرەپ تىزىملىكتىن ئەسلىگە كەلتۈرگىلى بولىدۇ&lt;/b&gt;&lt;/font&gt; &lt;/Data&gt; </string>
+    <string name="scope_storage_dialog_guide_content">&lt;Data&gt;&lt;font color=#80000000&gt;ئاۋۋال&lt;/font&gt;&lt;b&gt;\"%1$s\"&lt;/b&gt;&lt;font color=#80000000&gt;كونۇپكىسىنى چېكىپ، ئاندىن كېيىنكى بەتتە ئاستىدىكى مەزمۇننى چېكىڭ&lt;/font&gt;&lt;b&gt;\"%2$s\"&lt;/b&gt;&lt;/Data&gt;</string>
+</resources>

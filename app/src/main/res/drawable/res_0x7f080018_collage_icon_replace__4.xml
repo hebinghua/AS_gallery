@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<set xmlns:android="http://schemas.android.com/apk/res/android" xmlns:aapt="http://schemas.android.com/aapt" android:ordering="together">
+    <objectAnimator android:interpolator="@drawable/res_0x7f080019_collage_icon_replace__5" android:duration="200" android:startOffset="0" android:propertyName="translateXY" android:pathData="M 34.364,25.633C 34.696999999999996,25.3 36.364,23.633 36.364,23.633" android:propertyXName="translateX" android:propertyYName="translateY"/>
+    <objectAnimator android:interpolator="@drawable/res_0x7f08001a_collage_icon_replace__6" android:duration="400" android:startOffset="200" android:propertyName="translateXY" android:pathData="M 36.364,23.633C 36.364,23.633 34.696999999999996,25.3 34.364,25.633" android:propertyXName="translateX" android:propertyYName="translateY"/>
+</set>

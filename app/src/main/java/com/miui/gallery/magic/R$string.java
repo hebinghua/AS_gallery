@@ -1,0 +1,50 @@
+package com.miui.gallery.magic;
+
+/* loaded from: classes2.dex */
+public final class R$string {
+    public static final int acc_bg_first_item_description = 2131886107;
+    public static final int acc_clsoe_function_button = 2131886109;
+    public static final int acc_delete_video_special = 2131886110;
+    public static final int acc_magic_huifu_description = 2131886111;
+    public static final int acc_magic_shanchupeiyue = 2131886117;
+    public static final int acc_magic_xuanzepeiyue = 2131886118;
+    public static final int acc_minutes = 2131886119;
+    public static final int acc_open_function_button = 2131886120;
+    public static final int acc_seconds = 2131886124;
+    public static final int acc_selected = 2131886125;
+    public static final int acc_unselected = 2131886127;
+    public static final int acc_video_pause_btn = 2131886128;
+    public static final int acc_video_play_btn = 2131886129;
+    public static final int background_picture = 2131886359;
+    public static final int image_transition_name = 2131887771;
+    public static final int magic_bitmap_damaged = 2131887868;
+    public static final int magic_cancel = 2131887871;
+    public static final int magic_compositing = 2131887873;
+    public static final int magic_custom_edit = 2131887874;
+    public static final int magic_cut_video_no_support_image_edit = 2131887875;
+    public static final int magic_cut_video_no_support_video_edit = 2131887876;
+    public static final int magic_edit_cancel = 2131887877;
+    public static final int magic_edit_dsc = 2131887878;
+    public static final int magic_effect_text = 2131887880;
+    public static final int magic_error_adding_filter = 2131887883;
+    public static final int magic_exporting = 2131887884;
+    public static final int magic_idp_dsc = 2131887891;
+    public static final int magic_idp_guide_text = 2131887893;
+    public static final int magic_idp_save_type = 2131887898;
+    public static final int magic_matting_error_px = 2131887911;
+    public static final int magic_max_px = 2131887917;
+    public static final int magic_mix_px = 2131887918;
+    public static final int magic_more_fact = 2131887919;
+    public static final int magic_more_no_fact = 2131887920;
+    public static final int magic_network_error = 2131887921;
+    public static final int magic_no_human_face = 2131887923;
+    public static final int magic_ok = 2131887924;
+    public static final int magic_save_ok = 2131887930;
+    public static final int magic_select_people = 2131887931;
+    public static final int magic_stop_saving = 2131887936;
+    public static final int magic_video_cut_frame = 2131887940;
+    public static final int magic_video_cut_frame_back = 2131887941;
+    public static final int magic_video_cut_max = 2131887942;
+    public static final int magic_video_soundtrack_is_turned_off = 2131887947;
+    public static final int magic_video_soundtrack_is_turned_on = 2131887948;
+}

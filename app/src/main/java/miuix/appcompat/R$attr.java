@@ -1,0 +1,51 @@
+package miuix.appcompat;
+
+/* loaded from: classes3.dex */
+public final class R$attr {
+    public static final int actionBarEmbedTabs = 2130968590;
+    public static final int actionBarIndeterminateProgressStyle = 2130968596;
+    public static final int actionBarMovableLayoutStyle = 2130968598;
+    public static final int actionBarPaddingEnd = 2130968601;
+    public static final int actionBarPaddingStart = 2130968602;
+    public static final int actionBarSplitMaxPercentageHeight = 2130968619;
+    public static final int actionBarTabBadgeIcon = 2130968627;
+    public static final int actionBarTabTextExpandStyle = 2130968632;
+    public static final int actionBarTabTextSecondaryExpandStyle = 2130968633;
+    public static final int actionBarTabTextSecondaryStyle = 2130968634;
+    public static final int actionBarTightTitle = 2130968637;
+    public static final int actionModeOverflowButtonStyle = 2130968661;
+    public static final int collapseSubtitleTheme = 2130968878;
+    public static final int collapseTitleTheme = 2130968879;
+    public static final int contextMenuSeparateItemBackground = 2130968932;
+    public static final int expandBackground = 2130969063;
+    public static final int expandSubtitleTheme = 2130969066;
+    public static final int expandTitleTheme = 2130969068;
+    public static final int immersionWindowBackground = 2130969176;
+    public static final int miuiAlertDialogTheme = 2130969364;
+    public static final int miuiSpinnerStyle = 2130969367;
+    public static final int miuixDialogRoundWindowBg = 2130969393;
+    public static final int popupWindowElevation = 2130969473;
+    public static final int popupWindowShadowAlpha = 2130969475;
+    public static final int splitActionBarOverlayHeight = 2130969682;
+    public static final int startingWindowOverlay = 2130969695;
+    public static final int state_first_h = 2130969698;
+    public static final int state_first_v = 2130969699;
+    public static final int state_last_h = 2130969700;
+    public static final int state_last_v = 2130969701;
+    public static final int state_middle_h = 2130969702;
+    public static final int state_middle_v = 2130969703;
+    public static final int state_single_h = 2130969705;
+    public static final int windowActionBar = 2130969922;
+    public static final int windowActionBarMovable = 2130969923;
+    public static final int windowExtraPaddingHorizontal = 2130969928;
+    public static final int windowExtraPaddingHorizontalEnable = 2130969929;
+    public static final int windowFixedHeightMajor = 2130969930;
+    public static final int windowFixedHeightMinor = 2130969931;
+    public static final int windowFixedWidthMajor = 2130969932;
+    public static final int windowFixedWidthMinor = 2130969933;
+    public static final int windowMaxHeightMajor = 2130969936;
+    public static final int windowMaxHeightMinor = 2130969937;
+    public static final int windowMaxWidthMajor = 2130969938;
+    public static final int windowMaxWidthMinor = 2130969939;
+    public static final int windowTranslucentStatus = 2130969945;
+}

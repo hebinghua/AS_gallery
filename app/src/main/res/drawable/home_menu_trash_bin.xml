@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android" android:height="@dimen/icon_home_menu_width_height" android:width="@dimen/icon_home_menu_width_height" android:autoMirrored="true" android:viewportWidth="52" android:viewportHeight="52">
+    <path android:fillColor="@color/home_menu_icon_black_90" android:pathData="M45,15L45,46C45,48.2091 43.2091,50 41,50L11,50C8.7909,50 7,48.2091 7,46L7,15L4,15C2.8954,15 2,14.1045 2,13C2,11.8954 2.8954,11 4,11L15,11L15,6C15,3.7908 16.7909,2 19,2L33,2C35.2091,2 37,3.7908 37,6L37,11L48,11C49.1046,11 50,11.8954 50,13C50,14.1045 49.1046,15 48,15L45,15ZM41,15L11,15L11,45C11,45.5522 11.4477,46 12,46L40,46C40.5523,46 41,45.5522 41,45L41,15ZM33,11L33,7C33,6.4477 32.5523,6 32,6L20,6C19.4477,6 19,6.4477 19,7L19,11L33,11Z" android:strokeAlpha="0.9" android:fillType="evenOdd"/>
+</vector>

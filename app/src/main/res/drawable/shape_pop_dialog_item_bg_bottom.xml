@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape xmlns:android="http://schemas.android.com/apk/res/android" android:shape="rectangle" android:useLevel="true">
+    <corners android:bottomLeftRadius="@dimen/magic_idp_pop_corners_30" android:bottomRightRadius="@dimen/magic_idp_pop_corners_30"/>
+    <solid android:color="@color/color_2c2c2e"/>
+</shape>

@@ -1,0 +1,55 @@
+package com.miui.gallery.movie;
+
+/* loaded from: classes2.dex */
+public final class R$string {
+    public static final int movie_add_disable = 2131888138;
+    public static final int movie_audio_antiquity = 2131888139;
+    public static final int movie_audio_custom = 2131888140;
+    public static final int movie_audio_dream = 2131888141;
+    public static final int movie_audio_electronics = 2131888142;
+    public static final int movie_audio_local_cd = 2131888143;
+    public static final int movie_audio_no_cd = 2131888144;
+    public static final int movie_audio_none = 2131888145;
+    public static final int movie_audio_point1 = 2131888146;
+    public static final int movie_audio_point2 = 2131888147;
+    public static final int movie_audio_point3 = 2131888148;
+    public static final int movie_audio_point4 = 2131888149;
+    public static final int movie_audio_point5 = 2131888150;
+    public static final int movie_audio_point6 = 2131888151;
+    public static final int movie_audio_quiet = 2131888152;
+    public static final int movie_audio_summertime = 2131888153;
+    public static final int movie_audio_vitality = 2131888154;
+    public static final int movie_change_to_long_video = 2131888155;
+    public static final int movie_content_describe_delete = 2131888157;
+    public static final int movie_content_describe_pause = 2131888158;
+    public static final int movie_content_describe_play = 2131888159;
+    public static final int movie_customer_unsupport_audio_file = 2131888160;
+    public static final int movie_delete_disable = 2131888161;
+    public static final int movie_download_failed = 2131888162;
+    public static final int movie_download_failed_for_notwork = 2131888163;
+    public static final int movie_edit_photo = 2131888167;
+    public static final int movie_preview_share_title = 2131888171;
+    public static final int movie_save_failed = 2131888174;
+    public static final int movie_save_stop_tips = 2131888175;
+    public static final int movie_save_successfully = 2131888176;
+    public static final int movie_saving = 2131888177;
+    public static final int movie_template_baby = 2131888181;
+    public static final int movie_template_cool = 2131888182;
+    public static final int movie_template_cool2 = 2131888183;
+    public static final int movie_template_cool3 = 2131888184;
+    public static final int movie_template_dull = 2131888185;
+    public static final int movie_template_dull2 = 2131888186;
+    public static final int movie_template_dull3 = 2131888187;
+    public static final int movie_template_food = 2131888188;
+    public static final int movie_template_new_year = 2131888189;
+    public static final int movie_template_none = 2131888190;
+    public static final int movie_template_normal = 2131888191;
+    public static final int movie_template_party = 2131888192;
+    public static final int movie_template_pet = 2131888193;
+    public static final int movie_template_selfie = 2131888194;
+    public static final int movie_template_travel = 2131888195;
+    public static final int movie_template_xmas = 2131888196;
+    public static final int movie_video_long = 2131888197;
+    public static final int movie_video_short = 2131888198;
+    public static final int unsupport_type = 2131889477;
+}

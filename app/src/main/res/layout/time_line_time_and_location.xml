@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge xmlns:android="http://schemas.android.com/apk/res/android">
+    <TextView android:textAppearance="@style/Gallery.TextAppearance.List.GroupHeader.Date" android:textSize="@dimen/timeline_time_text_size" android:ellipsize="end" android:gravity="center_vertical" android:id="@+id/start_info" android:layout_width="wrap_content" android:layout_height="match_parent" android:maxLines="1" android:includeFontPadding="false" android:textDirection="locale" android:layout_marginStart="@dimen/timeline_time_margin" android:layout_marginEnd="@dimen/timeline_time_margin_end" android:layout_alignParentStart="true"/>
+    <ViewStub android:id="@+id/end_info" android:layout="@layout/time_line_end_info" android:layout_width="wrap_content" android:layout_height="wrap_content" android:paddingEnd="@dimen/recent_album_album_from_padding_end" android:layout_marginEnd="@dimen/recent_header_album_name_margin_end" android:layout_toEndOf="@+id/start_info" android:layout_alignParentEnd="true"/>
+    <ViewStub android:id="@+id/select_stub" android:layout="@layout/time_line_select" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginEnd="@dimen/timeline_time_margin" android:layout_toEndOf="@+id/end_info" android:layout_alignParentEnd="true"/>
+</merge>

@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" android:orientation="vertical" android:background="?attr/preferenceItemBackground" android:clipChildren="false" android:layout_width="match_parent" android:layout_height="wrap_content">
+    <androidx.gridlayout.widget.GridLayout android:layout_gravity="fill" android:id="@android:id/list" android:clickable="true" android:layout_width="match_parent" android:layout_height="wrap_content" app:columnCount="3"/>
+    <View android:id="@+id/divider" android:background="@color/share_album_divider" android:layout_width="match_parent" android:layout_height="1px" android:layout_marginTop="@dimen/vertical_spacing_very_huge" android:layout_marginBottom="@dimen/vertical_spacing_very_huge"/>
+</LinearLayout>

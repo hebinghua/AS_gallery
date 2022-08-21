@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android" android:height="40dp" android:width="40dp" android:viewportWidth="110" android:viewportHeight="110">
+    <path android:fillColor="@color/create_album_button_bg" android:pathData="M22,0L88,0A22,22 0,0 1,110 22L110,88A22,22 0,0 1,88 110L22,110A22,22 0,0 1,0 88L0,22A22,22 0,0 1,22 0z"/>
+    <path android:fillColor="@color/create_album_content_color" android:pathData="M55,37C53.895,37 53,37.895 53,39V53H39C37.895,53 37,53.895 37,55C37,56.105 37.895,57 39,57H53V72C53,73.105 53.895,74 55,74C56.105,74 57,73.105 57,72V57H72C73.105,57 74,56.105 74,55C74,53.895 73.105,53 72,53H57V39C57,37.895 56.105,37 55,37Z" android:fillType="evenOdd"/>
+</vector>

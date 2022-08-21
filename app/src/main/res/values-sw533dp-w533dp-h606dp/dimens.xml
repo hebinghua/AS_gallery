@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="album_ai_other_item_horizontal_spacing">51.25dp</dimen>
+    <dimen name="album_ai_people_item_horizontal_spacing">51.25dp</dimen>
+    <dimen name="cloud_backup_space_bar_width">195.64dp</dimen>
+    <dimen name="empty_page_landscape_margin_bottom">48.89dp</dimen>
+    <dimen name="empty_page_margin_bottom">48.89dp</dimen>
+    <dimen name="horizontal_spacing_very_huge">116.89dp</dimen>
+    <dimen name="miplay_btn_margin_start_end">44.44dp</dimen>
+    <dimen name="miplay_btn_margin_start_end_land">44.44dp</dimen>
+    <dimen name="people_face_horizontal_spacing">51.25dp</dimen>
+    <dimen name="result_item_grid_horizontal_space">51.25dp</dimen>
+</resources>

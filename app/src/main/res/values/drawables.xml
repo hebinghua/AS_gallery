@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <drawable name="btn_bg_dark">@drawable/miuix_appcompat_btn_bg_dialog_dark</drawable>
+    <drawable name="btn_bg_light">@drawable/miuix_appcompat_btn_bg_dialog_light</drawable>
+    <drawable name="notification_template_icon_bg">#3333b5e5</drawable>
+    <drawable name="notification_template_icon_low_bg">#0cffffff</drawable>
+    <drawable name="sticker_item_background">#e7ebf5</drawable>
+</resources>

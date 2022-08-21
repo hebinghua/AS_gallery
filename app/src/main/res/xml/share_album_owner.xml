@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android" android:title="@string/share_album">
+    <com.miui.gallery.widget.GalleryPreferenceCategory android:key="sharers">
+        <com.miui.gallery.share.GridPreference android:persistent="false" android:key="sharer_grid"/>
+        <com.miui.gallery.share.QRPreference android:persistent="false" android:key="qr_code"/>
+    </com.miui.gallery.widget.GalleryPreferenceCategory>
+    <PreferenceCategory android:key="public_share">
+        <CheckBoxPreference android:persistent="false" android:title="@string/open_public_title" android:key="open_public_share" android:summary="@string/open_public_message"/>
+        <PreferenceScreen android:persistent="false" android:title="@string/send_public_url" android:key="send_public_url"/>
+    </PreferenceCategory>
+    <com.miui.gallery.share.ShareCheckBoxPreference android:persistent="false" android:title="@string/cloud_watch_on_tv" android:key="open_share_to_tv" android:summary="@string/cloud_authorize_to_share_to_device" android:widgetLayout="@layout/share_sliding_button"/>
+</PreferenceScreen>

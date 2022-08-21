@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" android:id="@+id/menu_layout" android:clipChildren="false" android:layout_width="match_parent" android:layout_height="match_parent">
+    <FrameLayout android:id="@+id/layout_content_area" android:clipChildren="false" android:layout_width="match_parent" android:layout_height="0dp" app:layout_constraintBottom_toBottomOf="0" app:layout_constraintTop_toBottomOf="@+id/guide_line_content"/>
+    <androidx.constraintlayout.widget.Guideline android:orientation="horizontal" android:id="@+id/guide_line_content" android:layout_width="wrap_content" android:layout_height="wrap_content" app:layout_constraintGuide_begin="@dimen/editor_confirm_menu_height"/>
+    <FrameLayout android:id="@+id/layout_top_area" android:layout_width="match_parent" android:layout_height="@dimen/editor_confirm_menu_height" app:layout_constraintTop_toTopOf="0"/>
+</androidx.constraintlayout.widget.ConstraintLayout>

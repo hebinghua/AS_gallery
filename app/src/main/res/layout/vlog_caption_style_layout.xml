@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" android:layout_width="match_parent" android:layout_height="match_parent">
+    <com.miui.gallery.widget.recyclerview.SimpleRecyclerView android:id="@+id/recycler_view" android:layout_width="wrap_content" android:layout_height="@dimen/vlog_caption_common_recycler_item_size" android:layout_marginBottom="@dimen/vlog_caption_head_tail_content_margin_bottom" app:layout_constraintBottom_toTopOf="@+id/layout_bottom" app:layout_constraintEnd_toEndOf="0" app:layout_constraintStart_toStartOf="0"/>
+    <include android:id="@+id/layout_bottom" android:layout_width="match_parent" android:layout_height="@dimen/vlog_caption_common_bottom_height" app:layout_constraintBottom_toBottomOf="0" app:layout_constraintEnd_toEndOf="0" app:layout_constraintStart_toStartOf="0" layout="@layout/vlog_caption_style_bottom_view"/>
+</androidx.constraintlayout.widget.ConstraintLayout>

@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.miui.gallery.view.menu.PhoneActionMenuView xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" android:background="@drawable/photo_page_action_bar_background" android:layout_width="match_parent" android:layout_height="wrap_content" app:expandBackground="?attr/actionBarExpandBackground" app:splitActionBarDivider="@drawable/photo_page_split_bar_divider" style="@style/Widget.ActionMenu"/>

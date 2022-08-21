@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="editor_menu_text_radio_button_bubble_width">85.455dp</dimen>
+    <dimen name="magic_galery_top">@dimen/px_37</dimen>
+    <dimen name="magic_id_photo_guide_text_content_height">@dimen/px_60</dimen>
+    <dimen name="magic_id_photo_guide_text_height">@dimen/px_86</dimen>
+    <dimen name="magic_id_photo_guide_text_margin_left">80dp</dimen>
+    <dimen name="magic_id_photo_guide_text_margin_top">36.36dp</dimen>
+    <dimen name="magic_id_photo_guide_text_size">@dimen/px_46</dimen>
+    <dimen name="magic_id_photo_guide_text_title_size">@dimen/px_66</dimen>
+    <dimen name="magic_id_photo_guide_text_width">@dimen/px_880</dimen>
+    <dimen name="magic_idp_bottom_height">429.8125dp</dimen>
+    <dimen name="magic_idp_bottom_margin_top">45.09dp</dimen>
+    <dimen name="magic_idp_guide_btn1h">69.09dp</dimen>
+    <dimen name="magic_idp_guide_btn1w">112.73dp</dimen>
+    <dimen name="magic_idp_guide_btn_halfGap">@dimen/px_22</dimen>
+    <dimen name="magic_idp_guide_photo_height">170.91dp</dimen>
+    <dimen name="magic_idp_guide_photo_width">235.64dp</dimen>
+    <dimen name="magic_idp_guide_text_margin_2">30.91dp</dimen>
+    <dimen name="magic_idp_guide_text_margin_3">27.27dp</dimen>
+    <dimen name="magic_idp_icon">@dimen/px_70</dimen>
+    <dimen name="magic_idp_make_recycler_item_margin">@dimen/px_25</dimen>
+    <dimen name="magic_idp_make_search_height_left">196.36dp</dimen>
+    <dimen name="magic_idp_make_search_look_max_width">@dimen/px_2220</dimen>
+    <dimen name="magic_idp_make_tab_margin_left">224.55dp</dimen>
+    <dimen name="magic_idp_make_tab_margin_right">164.55dp</dimen>
+    <dimen name="magic_idp_make_tab_width">224.55dp</dimen>
+    <dimen name="magic_idp_search_list_padding">@dimen/px_40</dimen>
+    <dimen name="magic_search_edit_width">@dimen/px_2350</dimen>
+    <dimen name="magic_search_list_width">@dimen/px_800</dimen>
+    <dimen name="magic_status_bar_height">29.82dp</dimen>
+    <dimen name="magic_text_top">0dp</dimen>
+    <dimen name="miuix_appcompat_two_state_extra_padding_horizontal_large">101.82dp</dimen>
+    <dimen name="miuix_appcompat_window_extra_padding_horizontal_large">130.91dp</dimen>
+    <dimen name="miuix_appcompat_window_extra_padding_horizontal_small">72.73dp</dimen>
+</resources>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:miui="http://schemas.android.com/apk/res-auto" miui:name="com.miui.gallery">
+    <uses-sdk miui:minLevel="14"/>
+    <modules>
+        <module miui:minLevel="14" miui:name="com.miui.system"/>
+        <module miui:minLevel="11" miui:name="com.miui.rom"/>
+        <module miui:dependencyType="0x2" miui:minLevel="18" miui:name="com.xiaomi.micloud.sdk"/>
+    </modules>
+</manifest>

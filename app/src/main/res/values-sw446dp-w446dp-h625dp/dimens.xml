@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="editor_menu_text_radio_button_bubble_width">61.81dp</dimen>
+    <dimen name="magic_galery_top">@dimen/px_37</dimen>
+    <dimen name="magic_id_photo_guide_text_content_height">@dimen/px_60</dimen>
+    <dimen name="magic_id_photo_guide_text_height">@dimen/px_86</dimen>
+    <dimen name="magic_id_photo_guide_text_margin_left">@dimen/px_220</dimen>
+    <dimen name="magic_id_photo_guide_text_margin_top">@dimen/px_100</dimen>
+    <dimen name="magic_id_photo_guide_text_size">@dimen/px_46</dimen>
+    <dimen name="magic_id_photo_guide_text_title_size">@dimen/px_66</dimen>
+    <dimen name="magic_id_photo_guide_text_width">@dimen/px_800</dimen>
+    <dimen name="magic_idp_bottom_height">413.8125dp</dimen>
+    <dimen name="magic_idp_bottom_margin_top">@dimen/px_106</dimen>
+    <dimen name="magic_idp_guide_btn1h">@dimen/px_190</dimen>
+    <dimen name="magic_idp_guide_btn1w">@dimen/px_310</dimen>
+    <dimen name="magic_idp_guide_photo_height">170.91dp</dimen>
+    <dimen name="magic_idp_guide_photo_width">235.64dp</dimen>
+    <dimen name="magic_idp_guide_text_margin_2">@dimen/px_85</dimen>
+    <dimen name="magic_idp_guide_text_margin_3">@dimen/px_75</dimen>
+    <dimen name="magic_idp_icon">25.45dp</dimen>
+    <dimen name="magic_idp_make_search_height_left">@dimen/px_105</dimen>
+    <dimen name="magic_idp_make_search_look_max_width">@dimen/px_980</dimen>
+    <dimen name="magic_idp_make_tab_margin_left">@dimen/px_170</dimen>
+    <dimen name="magic_idp_make_tab_margin_right">0dp</dimen>
+    <dimen name="magic_idp_make_tab_width">@dimen/px_170</dimen>
+    <dimen name="magic_search_edit_width">@dimen/px_1110</dimen>
+    <dimen name="magic_search_list_width">@dimen/px_1240</dimen>
+    <dimen name="magic_status_bar_height">29.82dp</dimen>
+</resources>

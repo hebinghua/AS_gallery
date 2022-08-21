@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape xmlns:android="http://schemas.android.com/apk/res/android" android:shape="oval">
+    <size android:height="@dimen/photo_editor_bubble_indicator_radius" android:width="@dimen/photo_editor_bubble_indicator_radius"/>
+    <solid android:color="@color/photo_editor_seekbar_bubble_indicator_bg"/>
+    <stroke android:width="1px" android:color="@color/photo_editor_seekbar_bubble_indicator_stroke_color"/>
+</shape>

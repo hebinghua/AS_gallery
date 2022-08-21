@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="clip_edit_nav_back_width">372px</dimen>
+    <dimen name="editor_menu_filter_category_gap">7.27dp</dimen>
+    <dimen name="editor_menu_filter_item_gap">7.27dp</dimen>
+    <dimen name="editor_menu_filter_top_guide_line_end">147.64dp</dimen>
+    <dimen name="editor_menu_item_min_width">@dimen/px_184</dimen>
+    <dimen name="editor_menu_sticker_tab_width">61.82dp</dimen>
+    <dimen name="editor_menu_sticker_top_guide_end">186.91dp</dimen>
+    <dimen name="editor_menu_sticker_view_pager_item_width">65.45dp</dimen>
+    <dimen name="photo_editor_frame_color_select_layout_margin_end">58.18dp</dimen>
+    <dimen name="photo_editor_frame_seek_bar_margin_end">0dp</dimen>
+    <dimen name="text_edit_dialog_options_style_item_height">@dimen/px_210</dimen>
+    <dimen name="text_edit_dialog_options_style_item_width">@dimen/px_210</dimen>
+    <dimen name="text_edit_dialog_options_style_panel_rl_seek_bar_margin_right">12.364dp</dimen>
+    <dimen name="text_edit_dialog_tab_font_item_img_width">@dimen/px_210</dimen>
+    <dimen name="text_edit_dialog_tab_font_margin">205.33dp</dimen>
+    <dimen name="text_edit_dialog_tab_font_recycler_item_spaces">14.55dp</dimen>
+    <dimen name="text_edit_dialog_tab_style_recycler_view_margin_left">72.36dp</dimen>
+    <dimen name="text_edit_dialog_tab_style_transparent_title_margin_right">9.82dp</dimen>
+    <dimen name="text_edit_style_adapter_item_column_spaces">16.36dp</dimen>
+    <dimen name="text_edit_style_adapter_item_spaces">14.55dp</dimen>
+</resources>

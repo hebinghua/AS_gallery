@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android" android:layout_width="wrap_content" android:layout_height="wrap_content">
+    <com.miui.gallery.editor.photo.widgets.ColorSelector.CircularView android:id="@+id/circular_view" android:layout_width="@dimen/text_edit_color_ball_item_circularView_width" android:layout_height="@dimen/text_edit_color_ball_item_circularView_width" android:layout_marginLeft="@dimen/px_30" android:layout_marginTop="@dimen/px_30" android:layout_marginRight="@dimen/px_30" android:layout_marginBottom="@dimen/px_30" android:layout_centerVertical="true"/>
+</RelativeLayout>

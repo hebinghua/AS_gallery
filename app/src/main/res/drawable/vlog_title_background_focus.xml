@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape xmlns:android="http://schemas.android.com/apk/res/android">
+    <corners android:radius="13.1dp"/>
+    <solid android:color="@color/vlog_double_dialog_editor_bg_color"/>
+    <stroke android:width="2dp" android:color="#ffce16"/>
+</shape>

@@ -1,0 +1,54 @@
+package com.miui.mishare;
+
+/* loaded from: classes3.dex */
+public final class R$drawable {
+    public static final int avd_loading_animation = 2131231207;
+    public static final int avd_sending_animation = 2131231208;
+    public static final int bg_mishare_tranfer_btn = 2131231234;
+    public static final int bg_scanned_device_asus = 2131231237;
+    public static final int bg_scanned_device_blackshark = 2131231238;
+    public static final int bg_scanned_device_global = 2131231239;
+    public static final int bg_scanned_device_hisense = 2131231240;
+    public static final int bg_scanned_device_lenovo = 2131231241;
+    public static final int bg_scanned_device_meizu = 2131231242;
+    public static final int bg_scanned_device_nubia = 2131231243;
+    public static final int bg_scanned_device_oneplus = 2131231244;
+    public static final int bg_scanned_device_oppo = 2131231245;
+    public static final int bg_scanned_device_realme = 2131231246;
+    public static final int bg_scanned_device_rog = 2131231247;
+    public static final int bg_scanned_device_samsung = 2131231248;
+    public static final int bg_scanned_device_smartisan = 2131231249;
+    public static final int bg_scanned_device_vivo = 2131231250;
+    public static final int bg_scanned_device_xiaomi = 2131231251;
+    public static final int bg_scanned_device_zte = 2131231252;
+    public static final int bg_screen_throw_hight_light = 2131231253;
+    public static final int ic_cast = 2131231795;
+    public static final int ic_cast_disabled = 2131231796;
+    public static final int ic_device_pad = 2131231806;
+    public static final int ic_device_pc = 2131231807;
+    public static final int ic_device_phone = 2131231808;
+    public static final int ic_device_retry = 2131231809;
+    public static final int ic_device_success = 2131231810;
+    public static final int ic_global_device_pad = 2131231811;
+    public static final int ic_global_device_pc = 2131231812;
+    public static final int ic_global_device_phone = 2131231813;
+    public static final int ic_printer = 2131231845;
+    public static final int ic_printer_disabled = 2131231846;
+    public static final int ic_uwb = 2131231860;
+    public static final int icon_logo_asus = 2131231904;
+    public static final int icon_logo_blackshark = 2131231905;
+    public static final int icon_logo_hisense = 2131231906;
+    public static final int icon_logo_lenovo = 2131231907;
+    public static final int icon_logo_meizu = 2131231908;
+    public static final int icon_logo_mi = 2131231909;
+    public static final int icon_logo_nubia = 2131231910;
+    public static final int icon_logo_oneplus = 2131231911;
+    public static final int icon_logo_oppo = 2131231912;
+    public static final int icon_logo_realme = 2131231913;
+    public static final int icon_logo_rog = 2131231914;
+    public static final int icon_logo_samsung = 2131231915;
+    public static final int icon_logo_smartisan = 2131231916;
+    public static final int icon_logo_vivo = 2131231917;
+    public static final int icon_logo_zte = 2131231918;
+    public static final int wave_anim = 2131233975;
+}

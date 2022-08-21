@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape xmlns:android="http://schemas.android.com/apk/res/android">
+    <solid android:color="@color/vlog_filter_text_input_bg"/>
+    <stroke android:width="0dp" android:color="@color/transparent"/>
+    <corners android:topLeftRadius="0dp" android:topRightRadius="0dp" android:bottomLeftRadius="@dimen/vlog_round_image_default_corner" android:bottomRightRadius="@dimen/vlog_round_image_default_corner"/>
+</shape>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="magic_galery_top">18.29dp</dimen>
+    <dimen name="magic_id_photo_guide_text_content_height">20.44dp</dimen>
+    <dimen name="magic_id_photo_guide_text_height">47.11dp</dimen>
+    <dimen name="magic_id_photo_guide_text_margin_left">40dp</dimen>
+    <dimen name="magic_id_photo_guide_text_margin_top">31.11dp</dimen>
+    <dimen name="magic_id_photo_guide_text_size">14.55dp</dimen>
+    <dimen name="magic_id_photo_guide_text_title_size">21.01dp</dimen>
+    <dimen name="magic_id_photo_guide_text_width">299.25dp</dimen>
+    <dimen name="magic_idp_bottom_height">444.4375dp</dimen>
+    <dimen name="magic_idp_bottom_margin_top">24.89dp</dimen>
+    <dimen name="magic_idp_guide_btn1h">84.04dp</dimen>
+    <dimen name="magic_idp_guide_btn1w">136.4dp</dimen>
+    <dimen name="magic_idp_guide_photo_height">196.44dp</dimen>
+    <dimen name="magic_idp_guide_photo_width">271.1094dp</dimen>
+    <dimen name="magic_idp_guide_text_margin_2">30.91dp</dimen>
+    <dimen name="magic_idp_guide_text_margin_3">27.27dp</dimen>
+    <dimen name="magic_idp_save_title_margin_top">28dp</dimen>
+    <dimen name="magic_px_160">58.44dp</dimen>
+    <dimen name="magic_px_98">27dp</dimen>
+    <dimen name="magic_status_bar_height">0dp</dimen>
+</resources>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.miui.gallery.widget.PhotoPageLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" android:id="@+id/photo_layout" android:layout_width="match_parent" android:layout_height="match_parent">
+    <com.miui.gallery.widget.slip.VerticalSlipLayout android:id="@+id/slip_layout" android:layout_width="match_parent" android:layout_height="match_parent" VerticalSlipLayout:slipMode="2">
+        <include layout="@layout/photo_choice_title"/>
+        <com.miui.gallery.ui.PhotoChoiceContainer android:layout_gravity="bottom" android:id="@+id/child_container" android:paddingBottom="@dimen/photo_page_chooser_margin_bottom" android:layout_width="match_parent" android:layout_height="wrap_content"/>
+        <miuix.springback.view.SpringBackLayout android:layout_width="match_parent" android:layout_height="match_parent" app:scrollOrientation="0x5" app:scrollableView="@+id/photo_pager">
+            <com.miui.gallery.widget.GalleryViewPager android:id="@+id/photo_pager" android:layout_width="match_parent" android:layout_height="match_parent" android:importantForAccessibility="no"/>
+        </miuix.springback.view.SpringBackLayout>
+    </com.miui.gallery.widget.slip.VerticalSlipLayout>
+    <ViewStub android:layout_gravity="bottom" android:id="@+id/dualcamera_stub" android:layout="@layout/dual_camera_enter" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginBottom="@dimen/dual_camera_enter_margin_bottom"/>
+    <ViewStub android:layout_gravity="bottom|center_horizontal" android:id="@+id/video_duration_bar_stub" android:layout="@layout/photo_page_video_duration_bar" android:layout_width="wrap_content" android:layout_height="@dimen/video_duration_bar_height"/>
+</com.miui.gallery.widget.PhotoPageLayout>

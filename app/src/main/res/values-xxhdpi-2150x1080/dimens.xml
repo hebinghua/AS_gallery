@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="editor_menu_filter_compare_btn_margin_end_3V4">16dp</dimen>
+    <dimen name="editor_menu_filter_compare_btn_margin_end_9V16">52dp</dimen>
+    <dimen name="editor_menu_filter_compare_btn_margin_end_has_nav_bar_3V4">18dp</dimen>
+    <dimen name="editor_menu_filter_compare_btn_margin_end_has_nav_bar_9V16">62dp</dimen>
+    <dimen name="editor_menu_filter_compare_btn_margin_top_9V16">14dp</dimen>
+    <dimen name="editor_menu_filter_compare_btn_margin_top_has_nav_bar_3V4">20dp</dimen>
+    <dimen name="editor_menu_filter_compare_btn_margin_top_has_nav_bar_9V16">17dp</dimen>
+    <dimen name="editor_menu_remove_compare_btn_margin_end_3V4">16dp</dimen>
+    <dimen name="editor_menu_remove_compare_btn_margin_end_has_nav_bar_3V4">16dp</dimen>
+    <dimen name="editor_menu_remove_compare_btn_margin_end_has_nav_bar_9V16">63dp</dimen>
+    <dimen name="editor_menu_remove_compare_btn_margin_top_3V4">38dp</dimen>
+    <dimen name="editor_menu_remove_compare_btn_margin_top_9V16">15dp</dimen>
+    <dimen name="editor_menu_remove_compare_btn_margin_top_has_nav_bar_9V16">15dp</dimen>
+    <dimen name="editor_menu_remove_watermark_btn_width">56.329dp</dimen>
+    <dimen name="editor_remove_watermark_margin_top_3V4">64.66dp</dimen>
+    <dimen name="editor_remove_watermark_margin_top_9V16">38.66dp</dimen>
+    <dimen name="editor_remove_watermark_margin_top_has_nav_bar_3V4">44.66dp</dimen>
+    <dimen name="editor_remove_watermark_margin_top_has_nav_bar_9V16">39.66dp</dimen>
+</resources>

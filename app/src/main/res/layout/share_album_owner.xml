@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" android:id="@+id/frame_layout" android:layout_width="match_parent" android:layout_height="match_parent">
+    <miuix.springback.view.SpringBackLayout android:id="@+id/scrollView" android:layout_width="match_parent" android:layout_height="match_parent" app:scrollOrientation="0x6" app:scrollableView="@android:id/list_container">
+        <androidx.core.widget.NestedScrollView android:scrollbarStyle="outsideOverlay" android:id="@android:id/list_container" android:scrollbars="none" android:layout_width="match_parent" android:layout_height="match_parent"/>
+    </miuix.springback.view.SpringBackLayout>
+    <LinearLayout android:gravity="center" android:orientation="vertical" android:id="@+id/status_wrapper" android:layout_width="match_parent" android:layout_height="match_parent">
+        <ProgressBar android:id="@+id/loading_bar" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginBottom="@dimen/vertical_spacing_secondary"/>
+        <TextView android:gravity="center" android:id="@+id/loading_text" android:paddingTop="@dimen/album_share_publishing_progress_padding" android:layout_width="wrap_content" android:layout_height="wrap_content" style="@style/Gallery.TextAppearance.Info.Tip"/>
+        <Button android:gravity="center" android:id="@+id/retry_button" android:layout_width="100sp" android:layout_height="wrap_content" android:layout_marginTop="20dp" android:text="@string/retry_to_create_album"/>
+    </LinearLayout>
+    <TextView android:textSize="@dimen/sync_state_text_size" android:textColor="@color/share_album_cloud_tip" android:gravity="bottom|center_horizontal" android:id="@+id/cloud_service_text" android:paddingBottom="@dimen/album_share_padding_bottom_cloud_text" android:visibility="gone" android:layout_width="match_parent" android:layout_height="match_parent" android:text="@string/service_is_provided_by_miui_cloud_service"/>
+</FrameLayout>

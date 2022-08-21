@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="miuix_appcompat_action_bar_default_height">52.9dp</dimen>
+    <dimen name="miuix_appcompat_action_bar_horizontal_padding_end">47.3dp</dimen>
+    <dimen name="miuix_appcompat_action_bar_horizontal_padding_start">47.3dp</dimen>
+    <dimen name="miuix_appcompat_action_bar_title_horizontal_padding">47.3dp</dimen>
+    <dimen name="miuix_appcompat_action_button_bg_bottom_padding">10.3dp</dimen>
+    <dimen name="miuix_appcompat_action_button_bg_top_padding">10.3dp</dimen>
+    <dimen name="photo_page_top_bar_action_back_margin_start">20.4dp</dimen>
+    <dimen name="photo_page_top_bar_action_back_size">37.8dp</dimen>
+    <dimen name="photo_page_top_bar_immersion_menu_item_icon_horizontal_padding">12.381dp</dimen>
+    <dimen name="photo_page_top_bar_immersion_menu_item_large_icon_horizontal_padding">4.761dp</dimen>
+    <dimen name="photo_page_top_bar_lock_rotate_btns_margin_end">13.36dp</dimen>
+    <dimen name="photo_page_top_bar_map_entrance_width_height">38.1dp</dimen>
+    <dimen name="photo_page_top_bar_subtitle_margin_start">6.02dp</dimen>
+    <dimen name="photo_page_top_bar_subtitle_padding_bottom">6dp</dimen>
+    <dimen name="photo_page_top_bar_subtitle_text_size">13.78sp</dimen>
+    <dimen name="photo_page_top_bar_title_margin_start">64.79dp</dimen>
+    <dimen name="photo_page_top_menu_bar_action_back_margin_start">46.94dp</dimen>
+    <dimen name="photo_page_top_menu_bar_location_container_max_width">172.88dp</dimen>
+    <dimen name="photo_page_top_menu_bar_location_max_width">134.48dp</dimen>
+    <dimen name="photo_page_top_menu_bar_menu_margin_end">36.48dp</dimen>
+    <dimen name="photo_page_top_menu_bar_min_height">62.76dp</dimen>
+    <dimen name="photo_page_top_menu_bar_title_text_size">20.24sp</dimen>
+</resources>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" android:layout_width="match_parent" android:layout_height="match_parent">
+    <com.miui.gallery.widget.tsd.NestedTwoStageDrawer android:id="@+id/nested_two_stage_drawer" android:layout_width="match_parent" android:layout_height="match_parent" app:layout_constraintEnd_toEndOf="0" app:layout_constraintStart_toStartOf="0" app:layout_constraintTop_toTopOf="0" app:tsd_contentView="@+id/spring_back_layout">
+        <include layout="@layout/album_tab_page_base"/>
+    </com.miui.gallery.widget.tsd.NestedTwoStageDrawer>
+</androidx.constraintlayout.widget.ConstraintLayout>

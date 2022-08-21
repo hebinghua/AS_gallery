@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="miuix_sbl_action_indeterminate_distance">132.67dp</dimen>
+    <dimen name="miuix_sbl_action_simple_enter">333.3281dp</dimen>
+    <dimen name="miuix_sbl_action_simple_trigger">424dp</dimen>
+    <dimen name="miuix_sbl_action_upindeterminate_distance">88.67dp</dimen>
+    <dimen name="miuix_sbl_indicator_locked_body_height">48.7dp</dimen>
+    <dimen name="miuix_sbl_indicator_locked_body_margintop">26.7dp</dimen>
+    <dimen name="miuix_sbl_indicator_locked_body_width">65.3dp</dimen>
+    <dimen name="miuix_sbl_indicator_locked_header_height">26.7dp</dimen>
+    <dimen name="miuix_sbl_indicator_locked_header_width">40dp</dimen>
+    <dimen name="miuix_sbl_indicator_locked_labe_margintop">16dp</dimen>
+    <dimen name="miuix_sbl_indicator_locked_labe_textsize">24sp</dimen>
+    <dimen name="miuix_sbl_indicator_locked_layout_padding_bottom">66.7dp</dimen>
+    <dimen name="miuix_sbl_tracking_progress_bg_height">40dp</dimen>
+    <dimen name="miuix_sbl_tracking_progress_bg_marginbottom">26.7dp</dimen>
+    <dimen name="miuix_sbl_tracking_progress_bg_marginleft">25.3dp</dimen>
+    <dimen name="miuix_sbl_tracking_progress_bg_marginright">25.3dp</dimen>
+    <dimen name="miuix_sbl_tracking_progress_bg_margintop">26.7dp</dimen>
+    <dimen name="miuix_sbl_tracking_progress_bg_radius_width">60dp</dimen>
+    <dimen name="miuix_sbl_tracking_progress_bg_stroke_width">2.7dp</dimen>
+    <dimen name="miuix_sbl_tracking_progress_bg_width">40dp</dimen>
+    <dimen name="miuix_sbl_tracking_progress_labe_marginbottom">26.7dp</dimen>
+    <dimen name="miuix_sbl_tracking_progress_labe_margintop">76dp</dimen>
+    <dimen name="miuix_sbl_tracking_progress_labe_textsize">24sp</dimen>
+    <dimen name="miuix_sbl_tracking_uo_progress_labe_margintleft">9.3dp</dimen>
+    <dimen name="miuix_sbl_tracking_up_progress_bg_marginbottom">26.7dp</dimen>
+    <dimen name="miuix_sbl_tracking_up_progress_bg_margintop">26.7dp</dimen>
+</resources>

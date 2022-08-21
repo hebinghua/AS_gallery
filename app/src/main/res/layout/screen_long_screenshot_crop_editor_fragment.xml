@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.miui.gallery.editor.photo.screen.longcrop.ScreenLongCropEditView xmlns:android="http://schemas.android.com/apk/res/android" android:id="@+id/editor_view" android:paddingBottom="@dimen/screen_long_crop_editor_view_bottom_margin" android:layout_width="match_parent" android:layout_height="match_parent" android:paddingStart="@dimen/screen_long_crop_editor_view_horizontal_margin" android:paddingEnd="@dimen/screen_long_crop_editor_view_horizontal_margin"/>

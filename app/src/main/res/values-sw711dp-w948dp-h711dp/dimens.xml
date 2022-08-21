@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="action_bar_home_discovery_dot_radius">40dp</dimen>
+    <dimen name="action_bar_home_discovery_dot_text_size">10.67sp</dimen>
+    <dimen name="action_bar_home_discovery_margin_start">22.67dp</dimen>
+    <dimen name="action_bar_home_icon_height">33.78dp</dimen>
+    <dimen name="action_bar_home_icon_width">33.78dp</dimen>
+    <dimen name="action_bar_more_icon_size">33.78dp</dimen>
+    <dimen name="album_ai_album_margin_start_end">35.56dp</dimen>
+    <dimen name="album_ai_item_title_text_size">12.44sp</dimen>
+    <dimen name="album_ai_location_and_tags_margin_top">43.56dp</dimen>
+    <dimen name="album_ai_other_item_horizontal_spacing">40dp</dimen>
+    <dimen name="album_ai_people_group_margin_bottom">16.89dp</dimen>
+    <dimen name="album_ai_people_group_margin_top">16.89dp</dimen>
+    <dimen name="album_ai_people_item_horizontal_spacing">40dp</dimen>
+    <dimen name="album_ai_people_item_vertical_spacing">0dp</dimen>
+    <dimen name="fast_share_mishare_padding_horizontal">0dp</dimen>
+    <dimen name="home_tab_place_holder_height">81.78dp</dimen>
+    <dimen name="map_entrance_in_home_page_size">33.78dp</dimen>
+    <dimen name="people_face_horizontal_spacing">40dp</dimen>
+    <dimen name="people_face_vertical_spacing">26.67dp</dimen>
+    <dimen name="people_name_margin_top">8.89dp</dimen>
+    <dimen name="people_page_header_height">32.89dp</dimen>
+    <dimen name="people_page_list_padding_left_right">35.56dp</dimen>
+    <dimen name="people_page_name_size">14.22sp</dimen>
+    <dimen name="photo_choice_title_height">110.67dp</dimen>
+    <dimen name="search_button_size">33.78dp</dimen>
+    <dimen name="tab_or_assistant_place_holder_height">81.78dp</dimen>
+</resources>

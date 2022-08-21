@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="display_bottom_line">220.36dp</dimen>
+    <dimen name="editor_menu_filter_compare_btn_margin_end_3V4">12.7dp</dimen>
+    <dimen name="editor_menu_filter_compare_btn_margin_end_9V16">46.9dp</dimen>
+    <dimen name="editor_menu_filter_compare_btn_margin_top_3V4">38dp</dimen>
+    <dimen name="editor_menu_filter_compare_btn_margin_top_9V16">12.75dp</dimen>
+    <dimen name="editor_menu_remove_compare_btn_margin_end_9V16">52dp</dimen>
+    <dimen name="editor_menu_remove_compare_btn_margin_end_has_nav_bar_3V4">20dp</dimen>
+    <dimen name="editor_menu_remove_compare_btn_margin_end_has_nav_bar_9V16">65dp</dimen>
+    <dimen name="editor_menu_remove_compare_btn_margin_top_3V4">40dp</dimen>
+    <dimen name="editor_menu_remove_compare_btn_margin_top_9V16">12dp</dimen>
+    <dimen name="editor_menu_remove_compare_btn_margin_top_has_nav_bar_3V4">17dp</dimen>
+    <dimen name="editor_menu_remove_compare_btn_margin_top_has_nav_bar_9V16">14dp</dimen>
+    <dimen name="editor_remove_watermark_margin_top_3V4">65.27dp</dimen>
+    <dimen name="editor_remove_watermark_margin_top_9V16">40.02dp</dimen>
+    <dimen name="editor_remove_watermark_margin_top_has_nav_bar_3V4">43.27dp</dimen>
+    <dimen name="editor_remove_watermark_margin_top_has_nav_bar_9V16">40.02dp</dimen>
+    <dimen name="photo_editor_nav_sky_guide_hint_offsetY">0dp</dimen>
+    <dimen name="render_view_margin_top">25dp</dimen>
+</resources>

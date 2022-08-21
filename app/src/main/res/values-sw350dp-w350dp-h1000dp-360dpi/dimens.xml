@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="magic_id_photo_guide_text_margin_left">40dp</dimen>
+    <dimen name="magic_id_photo_guide_text_margin_top">71.11dp</dimen>
+    <dimen name="magic_id_photo_guide_text_width">275.5469dp</dimen>
+    <dimen name="magic_idp_bottom_height">632.875dp</dimen>
+    <dimen name="magic_idp_guide_photo_height">226.22dp</dimen>
+    <dimen name="magic_idp_guide_photo_width">313.3281dp</dimen>
+    <dimen name="magic_idp_search_edit_font">@dimen/px_40</dimen>
+    <dimen name="magic_status_bar_height">32dp</dimen>
+</resources>

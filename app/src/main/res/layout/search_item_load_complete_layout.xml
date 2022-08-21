@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android" android:gravity="center_vertical" android:orientation="horizontal" android:layout_width="match_parent" android:layout_height="wrap_content">
+    <TextView android:textAppearance="@style/Gallery.TextAppearance.ProgressTitle" android:textSize="@dimen/search_load_complete_textsize" android:gravity="center" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginTop="@dimen/search_item_load_text_layout_margin_top" android:layout_marginBottom="@dimen/search_item_load_text_layout_margin_bottom" android:text="@string/load_complete" android:singleLine="true"/>
+</FrameLayout>

@@ -1,0 +1,57 @@
+package com.miui.gallery.editor;
+
+/* loaded from: classes.dex */
+public final class R$dimen {
+    public static final int bubble_seek_bar_slider_to_fill_gap_highlight = 2131165722;
+    public static final int bubble_seek_bar_slider_to_fill_gap_normal = 2131165723;
+    public static final int editor_filter_and_adjust_top_guide_line_end = 2131166228;
+    public static final int editor_inner_toast_hieght = 2131166230;
+    public static final int editor_inner_toast_margin_bottom = 2131166231;
+    public static final int editor_menu_filter_guide_line_end = 2131166340;
+    public static final int editor_menu_filter_item_corner = 2131166345;
+    public static final int editor_menu_filter_item_height = 2131166347;
+    public static final int editor_menu_height = 2131166373;
+    public static final int editor_menu_smart_video_guide_line_end = 2131166438;
+    public static final int editor_nav_bottom_guide_line_end = 2131166485;
+    public static final int editor_waterfall_screen_horizontal_protect_size = 2131166569;
+    public static final int more_slide_switch_view_selected_height = 2131167912;
+    public static final int more_slide_switch_view_selected_width = 2131167913;
+    public static final int more_slide_switch_view_text_size = 2131167914;
+    public static final int more_slide_switch_view_x_radius = 2131167915;
+    public static final int more_slide_switch_view_y_radius = 2131167916;
+    public static final int photo_editor_nav_guide_line_end = 2131168239;
+    public static final int photo_movie_edit_edit_item_width = 2131168315;
+    public static final int photo_movie_edit_panel_height = 2131168320;
+    public static final int px_0 = 2131168569;
+    public static final int px_10 = 2131168571;
+    public static final int px_100 = 2131168572;
+    public static final int px_107 = 2131168582;
+    public static final int px_16 = 2131168646;
+    public static final int px_190 = 2131168684;
+    public static final int px_20 = 2131168695;
+    public static final int px_22 = 2131168701;
+    public static final int px_220 = 2131168703;
+    public static final int px_27 = 2131168719;
+    public static final int px_310 = 2131168731;
+    public static final int px_36 = 2131168740;
+    public static final int px_37 = 2131168741;
+    public static final int px_470 = 2131168764;
+    public static final int px_48 = 2131168765;
+    public static final int px_50 = 2131168769;
+    public static final int px_6 = 2131168790;
+    public static final int px_60 = 2131168791;
+    public static final int px_648 = 2131168801;
+    public static final int px_70 = 2131168813;
+    public static final int px_75 = 2131168823;
+    public static final int px_750 = 2131168824;
+    public static final int px_80 = 2131168831;
+    public static final int px_944 = 2131168857;
+    public static final int seek_bar_bubble_shape_bg_solid_radius = 2131169360;
+    public static final int seek_bar_bubble_window_size = 2131169362;
+    public static final int slide_switch_view_interval = 2131169495;
+    public static final int slide_switch_view_selected_bg_corner = 2131169496;
+    public static final int slide_switch_view_selected_bg_height = 2131169497;
+    public static final int slide_switch_view_selected_bg_width = 2131169498;
+    public static final int text_edit_dialog_tab_style_bsb_empty_width = 2131169728;
+    public static final int text_edit_dialog_tab_style_bsb_visibility_width = 2131169734;
+}

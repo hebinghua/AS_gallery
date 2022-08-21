@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" android:orientation="horizontal" android:layout_width="match_parent" android:layout_height="wrap_content">
+    <TextView android:textSize="@dimen/screen_editor_dialog_item_text_size" android:textColor="@color/screen_editor_save_dialog_text_color" android:gravity="center" android:id="@+id/screen_editor_item_text" android:layout_width="match_parent" android:layout_height="@dimen/screen_editor_dialog_item_height" style="@style/Gallery.Widget.Button.ListItem"/>
+</LinearLayout>

@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape xmlns:android="http://schemas.android.com/apk/res/android" android:shape="rectangle">
+    <corners android:radius="@dimen/similar_photo_pick_bar_radius"/>
+    <solid android:color="@color/similar_photo_pick_bar_background"/>
+</shape>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="magic_camera_top">22.29dp</dimen>
+    <dimen name="magic_galery_top">18.29dp</dimen>
+    <dimen name="magic_id_photo_guide_text_margin_left">97.78dp</dimen>
+    <dimen name="magic_id_photo_guide_text_margin_top">31.11dp</dimen>
+    <dimen name="magic_id_photo_guide_text_width">562.9531dp</dimen>
+    <dimen name="magic_idp_bottom_height">400dp</dimen>
+    <dimen name="magic_idp_bottom_margin_top">28.44dp</dimen>
+    <dimen name="magic_idp_guide_btn1h">84.04dp</dimen>
+    <dimen name="magic_idp_guide_btn1w">136.4dp</dimen>
+    <dimen name="magic_idp_guide_photo_height">196.44dp</dimen>
+    <dimen name="magic_idp_guide_photo_width">271.1094dp</dimen>
+    <dimen name="magic_idp_save_title_margin_top">28dp</dimen>
+    <dimen name="magic_px_160">58.44dp</dimen>
+    <dimen name="magic_px_98">27dp</dimen>
+    <dimen name="magic_status_bar_height">0dp</dimen>
+</resources>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animated-vector xmlns:android="http://schemas.android.com/apk/res/android" xmlns:aapt="http://schemas.android.com/aapt" android:drawable="@drawable/res_0x7f080003_avd_likeanimation__0">
+    <target android:name="path_2" android:animation="@drawable/res_0x7f080004_avd_likeanimation__1"/>
+    <target android:name="group" android:animation="@drawable/res_0x7f080005_avd_likeanimation__2"/>
+    <target android:name="path_1" android:animation="@drawable/res_0x7f080006_avd_likeanimation__3"/>
+</animated-vector>

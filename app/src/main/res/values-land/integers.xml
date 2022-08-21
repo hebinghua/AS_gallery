@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer name="people_face_merge_pager_row_count">1</integer>
+</resources>

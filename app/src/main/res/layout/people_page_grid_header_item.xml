@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.miui.gallery.ui.PeoplePageGridHeaderItem xmlns:android="http://schemas.android.com/apk/res/android" android:layoutDirection="locale" style="@style/Gallery.Widget.GroupHeader.People">
+    <TextView android:textAppearance="@style/Gallery.TextAppearance.List.GroupHeader.People" android:id="@+id/groupName" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_alignParentBottom="true" android:fontFamily="mipro-regular"/>
+</com.miui.gallery.ui.PeoplePageGridHeaderItem>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android" android:paddingLeft="@dimen/crop_tips_horizontal_padding" android:paddingRight="@dimen/crop_tips_horizontal_padding">
+    <item>
+        <shape android:shape="rectangle">
+            <stroke android:width="1px" android:color="@color/crop_tips_bg_stroke_color"/>
+            <solid android:color="@color/crop_tips_bg_normal_color"/>
+            <corners android:radius="@dimen/crop_tips_corner_radius"/>
+            <size android:height="@dimen/crop_tips_height"/>
+        </shape>
+    </item>
+</layer-list>

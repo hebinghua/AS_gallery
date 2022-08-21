@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" android:orientation="vertical" android:background="@color/black" android:paddingTop="@dimen/magic_status_bar_height" android:layout_width="match_parent" android:layout_height="match_parent">
+    <include layout="@layout/ts_base_banner_tittle_back"/>
+    <miuix.recyclerview.widget.RecyclerView android:id="@+id/magic_effects_guide_list" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_weight="1" android:layout_marginStart="@dimen/magic_effects_guide_list_magin_start" android:layout_marginEnd="@dimen/magic_effects_guide_list_magin_end"/>
+</LinearLayout>
